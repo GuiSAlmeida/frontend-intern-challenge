@@ -10,10 +10,9 @@ document.getElementById("links_btn").onclick = function() {
 
     } else {
         document.getElementById("links_text").value = "";
-        document.getElementById("links_text").style.color = "var(--secondary)";
+        document.getElementById("links_text").style.color = "#ff6e14";
         document.getElementById("links_btn").innerHTML = "Encurtar";
         document.getElementById("links_close").style.display = "none";
-        alert("Link copiado!")
     }
 }
 

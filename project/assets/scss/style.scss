@@ -110,6 +110,8 @@
     &_link {
         @include font-size(16);
         font-weight: bold;
+        text-decoration: none;
+        color: $primary;
     }
     
     &_number {

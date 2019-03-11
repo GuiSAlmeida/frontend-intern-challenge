@@ -201,6 +201,8 @@ body {
 .top5_links_item_link {
   font-size: 1rem;
   font-weight: bold;
+  text-decoration: none;
+  color: #aa1423;
 }
 .top5_links_item_number {
   font-size: 1rem;
